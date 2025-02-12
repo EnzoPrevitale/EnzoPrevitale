@@ -1,10 +1,10 @@
 # Enzo Previtale
 
-💻 Digital Solutions - **Bosch/SENAI**
-🔌 3º ano de Eletroeletrônica integrado ao Ensino Médio - **COTUCA**
+💻 Digital Solutions - **Bosch/SENAI**  
+🔌 3º ano de Eletroeletrônica integrado ao Ensino Médio - **COTUCA**  
 
 ## Habilidades
-☕ Java
-📝 HTML
-🎨 CSS
+☕ Java  
+📝 HTML  
+🎨 CSS  
 
