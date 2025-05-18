@@ -12,7 +12,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width=40px style="margin-right: 20px;" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width=40px /></code>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&layout=compact&theme=dracula)
 
 
 ## Ferramentas
