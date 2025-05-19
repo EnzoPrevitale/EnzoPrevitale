@@ -3,7 +3,7 @@
 💻 Digital Solutions - **Bosch/SENAI**  
 🔌 3º ano de Eletroeletrônica integrado ao Ensino Médio - **COTUCA**  
 
-![](https://github-readme-stats.vercel.app/api?username=EnzoPrevitale&theme=ambient_gradient)
+![](https://github-readme-stats.vercel.app/api?username=EnzoPrevitale&theme=dracula)
 
 ## Habilidades
 
@@ -12,7 +12,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width=40px style="margin-right: 20px;" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width=40px /></code>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=ambient_gradient&layout=pie)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=dracula&layout=donut)
 
 ## Ferramentas
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40px style="margin-right: 20px"/></code>
