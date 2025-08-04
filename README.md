@@ -26,6 +26,7 @@
 ## Contato
 <a href="https://www.linkedin.com/in/enzo-gabriel-previtale-silva-9ba92a301/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px/></a>
 
+## Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoPrevitale/EnzoPrevitale/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnzoPrevitale/EnzoPrevitale/output/pacman-contribution-graph.svg">
