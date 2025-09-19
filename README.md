@@ -19,7 +19,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40px style="margin-right: 20px;" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40px style="margin-right: 20px;" /></code>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=transparent&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=transparent&layout=donut-vertical)
 
 ## Ferramentas
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40px style="margin-right: 20px"/></code>
