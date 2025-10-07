@@ -36,7 +36,7 @@ A Digital Solutions and Electronics student fascinated by games and technology.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40px style="margin-right: 20px;" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=transparent&layout=donut-vertical&langs_count=22)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPrevitale&theme=transparent&layout=donut-vertical&langs_count=20)
 
 ## Contact
 <a href="https://www.linkedin.com/in/enzo-gabriel-previtale-silva-9ba92a301/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px/></a>
