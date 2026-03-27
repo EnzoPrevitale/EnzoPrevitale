@@ -1,7 +1,5 @@
 # Enzo Previtale
 
-A Digital Solutions and Electronics student fascinated by games and technology. 
-
 ![](https://github-readme-stats.vercel.app/api?username=EnzoPrevitale&theme=transparent)
 
 ## Tech Stack
